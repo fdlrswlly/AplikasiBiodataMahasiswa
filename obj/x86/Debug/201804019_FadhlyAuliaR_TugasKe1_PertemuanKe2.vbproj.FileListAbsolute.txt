@@ -1,0 +1,11 @@
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\AplikasiBiodataMahasiswa\AplikasiBiodataMahasiswa\obj\x86\Debug\AplikasiBiodataMahasiswa.exe
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\AplikasiBiodataMahasiswa\AplikasiBiodataMahasiswa\obj\x86\Debug\AplikasiBiodataMahasiswa.xml
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\AplikasiBiodataMahasiswa\AplikasiBiodataMahasiswa\obj\x86\Debug\AplikasiBiodataMahasiswa.pdb
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\AplikasiBiodataMahasiswa\AplikasiBiodataMahasiswa\bin\Debug\AplikasiBiodataMahasiswa.exe
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\AplikasiBiodataMahasiswa\AplikasiBiodataMahasiswa\bin\Debug\AplikasiBiodataMahasiswa.pdb
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\AplikasiBiodataMahasiswa\AplikasiBiodataMahasiswa\bin\Debug\AplikasiBiodataMahasiswa.xml
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\AplikasiBiodataMahasiswa\AplikasiBiodataMahasiswa\obj\x86\Debug\AplikasiBiodataMahasiswa.Form1.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\AplikasiBiodataMahasiswa\AplikasiBiodataMahasiswa\obj\x86\Debug\AplikasiBiodataMahasiswa.Form2.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\AplikasiBiodataMahasiswa\AplikasiBiodataMahasiswa\obj\x86\Debug\AplikasiBiodataMahasiswa.Resources.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\AplikasiBiodataMahasiswa\AplikasiBiodataMahasiswa\obj\x86\Debug\201804019_FadhlyAuliaR_TugasKe1_PertemuanKe2.vbproj.GenerateResource.Cache
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\AplikasiBiodataMahasiswa\AplikasiBiodataMahasiswa\obj\x86\Debug\AplikasiBiodataMahasiswa.FormMenuUtama.resources
